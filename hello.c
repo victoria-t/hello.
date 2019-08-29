@@ -12,5 +12,7 @@ int main(int argc, char **argv) {
 
   printf("Victoria Titsworth!\n");
 
+  printf("Major undeclared\n");
+
   return 0;
 }
